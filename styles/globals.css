@@ -1,0 +1,29 @@
+/**
+ * Created By : Sangwin Gawande (https://sangw.in)
+ */
+
+* {
+  outline: none;
+}
+
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image:
+    linear-gradient(45deg,
+      rgba(245, 70, 66, 0.75),
+      rgba(8, 83, 156, 0.75)), url('/images/bg.png');
+  min-height: 100%;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-color: #C850C0;
+}
+
+/**
+ * Created By : Sangwin Gawande (https://sangw.in)
+ */
